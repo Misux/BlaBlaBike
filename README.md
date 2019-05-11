@@ -1,4 +1,4 @@
-# Blablabike
+# BlaBlaBike
 
 Educational project for the web programming exam: web application for bicycle enthusiasts who organise outings with the possibility to sell or buy bicycles thanks to the presence of a market.
 
