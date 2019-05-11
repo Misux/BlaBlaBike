@@ -1,0 +1,52 @@
+/*---------SELECT TAPPE---------*/
+form{padding-bottom: 5%;}
+::-webkit-scrollbar {width: 0px;background: transparent;}
+#boxInsert3{
+  width:99%;
+  float:right;
+  margin-top: 1%;
+  margin-bottom:1%;
+  height:445px;
+  background-color:white;
+}
+#boxInsert3b{
+  border:1px solid black;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 5%;
+  border:1px solid #909090;
+  width:70%;
+  height:450px;
+  background-color:#08457E;
+}
+
+.rigaSelectTappa0{padding-left: 5%;}
+#rigaSelectNota{padding-left: 5%; padding-top: 7%; font-size: 14px; font-weight: bold;}
+#rigaSelectNota1{padding-left: 5%;font-size: 13px;}
+#rigaSelectNota2{padding-left: 5%;padding-bottom: 5%;font-size: 13px;}
+
+#rigaSelectTappa1{
+  padding-top: 4%;
+  border-top:1px solid #E9E9E9;
+  font-weight: bold;
+  font-size: 15pt;
+}
+#rigaSelectTappa2,.rigaSelectTappa4,.rigaSelectTappa4b{font-size:11pt;}
+#rigaSelectTappa3{color:black; font-weight:bold;padding-top:3%; font-size: 12pt;}
+
+/*---------BOTTONE TORNA USCITE--------*/
+#botPosition{text-align: center;height: 30px;}
+#botTornaUscite{
+height: 100%;
+ width:70px;
+ outline: none;
+ cursor: pointer;
+ border-radius: 2px;
+ text-align: center;
+ text-decoration: none;
+ font: bold 12px Arial, Helvetica, sans-serif;
+ color: white;
+ border: solid 1px #0076a3;
+ background: #08457E;
+}
+#botTornaUscite:hover{background:#003153;}

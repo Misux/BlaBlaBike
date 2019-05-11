@@ -1,0 +1,33 @@
+.fontDet{
+  font-size: 9.5pt;
+}
+.fontDet1{
+  font-size: 9pt;
+}
+button.botAn2{
+    outline: none;
+    cursor: pointer;
+    border-radius: 1px;
+    text-align: center;
+    text-decoration: none;
+    font: bold 11px Arial, Helvetica, sans-serif;
+    color: #fff;
+    border: solid 1px #0076a3;
+    background-color: grey;
+    height: 33px; width:140px;
+}
+button.botAn2:hover,.botAn3:hover {background:#5d5d5d;}
+
+
+.botAn3{
+  outline: none;
+  cursor: pointer;
+  border-radius: 1px;
+  text-align: center;
+  text-decoration: none;
+  font: bold 11px Arial, Helvetica, sans-serif;
+  color: #fff;
+  border: solid 1px #0076a3;
+  background-color: grey;
+  height: 33px; width:140px;
+}

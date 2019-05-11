@@ -1,0 +1,80 @@
+body{
+  font-family: helvetica,sans-serif;
+  background: #007fff; /*#0095cd #007fff */
+}
+
+/*______________LINKS_______________*/
+a.log {font-size:14px;}
+a.log:link    {color:blue; background-color:transparent; text-decoration:none}
+a.log:visited {color:#191970; background-color:transparent; text-decoration:none}
+a.log:hover   {color: blue; background-color:transparent; text-decoration:underline;}
+a.log:active  {color:blue; background-color:transparent;text-decoration:none}
+
+.box{
+  background-color: white;
+  height: 550px;
+  width:475px;
+  position: relative;
+}
+
+.logoRegc{
+  position:absolute;
+  top: 10px;
+  left:80px;
+  width: 690px;
+  height: 485px;
+}
+.bla{
+position: absolute;
+font-family: VERDANA,sans-serif;
+top: 5px;
+left:180px;
+}
+h3{
+  font-size: 26px;
+  color:#1E90FF;
+}
+.acc{
+  position: absolute;
+  font-weight: bold;
+  top:83px;
+  font-size:20px;
+  left:150px;
+}
+form{
+  position: absolute;
+  top:115px;
+  left: 47px;
+  height: 403px;
+  width: 380px;
+  text-align: center;
+}
+.cred{
+  font-size: 12.5px;
+}
+.cella{
+  height: 22px;
+  width:300px;
+}
+.pulsante {
+ height: 33px;
+ width:110px;
+ outline: none;
+ cursor: pointer;
+ text-align: center;
+ text-decoration: none;
+ font: 15px Arial, Helvetica, sans-serif;
+ color: #fff;
+ border: solid 1px #0076a3;
+ background: #1E90FF;
+ box-shadow: 1px 1px 1px #4C6E91;
+}
+.pulsante:hover{background:#007fff;}
+
+.cr{
+  color:white;
+  font-size:13px;
+  position: absolute;
+  top: 450px;
+  left:72px;
+}

@@ -1,0 +1,44 @@
+/*__________________LOGIN__________________*/
+@media only screen and (max-width: 670px) {
+    #topright {
+      display: none;
+    }
+}
+@media only screen and (max-width: 620px) {
+    #topright2 {
+      display: none;
+    }
+}
+/*____________________MENU_____________________*/
+@media only screen and (max-width: 603px) {
+    li a, .dropbtn {
+      padding: 9px 3px;
+      font-size: 15px;
+    }
+}
+@media only screen and (max-width: 950px) {
+    img.mySlides {
+      width:500px;
+      height:380px;
+    }
+}
+/*_____________IMMAGINI HOME BANNER_______________*/
+.dimes{width:340px;height:230px;}
+@media only screen and (max-width: 1070px) {
+    .dimes {
+      width:280px;
+      height:200px;
+    }
+}
+@media only screen and (max-width: 900px) {
+    .dimes {
+      width:240px;
+      height:180px;
+      padding-top: 5%;
+    }
+}
+@media only screen and (max-width: 460px) {
+    .dimes {
+      padding-top: 30%;
+    }
+}

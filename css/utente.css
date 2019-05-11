@@ -1,0 +1,96 @@
+
+#boxUtenti{
+  border: 1px solid grey;
+  width: 60%;
+  height: 20%;
+  margin-left: 20%;
+  overflow-y: scroll;
+  border-collapse: collapse;
+}
+
+#ricercaUtenti{
+  border-bottom: 1px solid grey;
+  width: 100%;
+  background-color: #DEDEDE;
+  height: 60px;
+}
+#ricercaUtenti2{
+  text-align:center;
+    height: 100%;
+    padding-top: 1.5%;
+    border:0px solid black;
+}
+#s{
+  height: 30px;
+  border-radius: 15px;
+  border: 1px solid grey;
+  width:60%;
+  padding-left: 2%;
+}
+/*BOTTONE*/
+#cercaUtente{
+width: 20%;
+height: 52px;
+top:0px;
+background-image:url("../images/lupa.png");
+background-size: 100% 100%;
+border:0px;
+}
+
+#boxUtenti3{
+  border: 0px solid black;
+  width: 100%;
+  height: 100%;
+  padding-left: 0%;
+  padding-top: 2%;
+  padding-right: 3%;
+  padding-bottom:2%;
+
+}
+#boxUtenti4{
+  border: 0px solid black;
+  width: 100%;
+  height: 100%;
+  padding-left: 8%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  overflow-y: scroll;
+}
+#utentiRiga1{
+  height: 50px;
+  font-size: 14pt;
+  font-weight: bold;
+}
+.rigaUtente{
+  font-size: 12pt;
+}
+button{
+  width: 60%;
+  height: 34px;
+  color: white;
+  background-color:#0095cd;
+  border-color: #007fff;
+}
+button:hover{background:#007fff;}
+#visitaUtente:hover{background:#5d5d5d;}
+#visitaUtente{
+  width: 70%;
+  color: white;
+  height: 34px;
+  background-color: grey;
+}
+/*---------BOTTONE RICERCA---------*/
+#botRicerca{
+ width:80px;
+ height: 30px;
+ outline: none;
+ cursor: pointer;
+ border-radius: 1px;
+ text-align: center;
+ text-decoration: none;
+ font: bold 11px Arial, Helvetica, sans-serif;
+ color:white;
+ border:solid 1px #0076a3;
+ background:#08457E;
+}
+#botRicerca:hover{background:#003153;}

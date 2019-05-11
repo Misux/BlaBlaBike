@@ -1,0 +1,136 @@
+/*________________________ORGANIZZA USCITA___________________________*/
+h3{
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+h5{
+  font-size: 15px;
+  text-align: center;
+  font-weight: normal;
+}
+
+/*-----------BOX USCITE----------*/
+.boxInsert{
+  margin-bottom: 5%;
+  margin-left: 15%;
+  border:1px solid #909090;
+  width:70%;
+  height:1130px;
+  background-color:white;
+}
+form{
+  height: 100%;
+}
+/*-----------TABELLA USCITA---------*/
+#organizza{
+  border:1px solid #909090;
+  margin:4%;
+  width:92%;
+  height:50%;
+  padding:5%;
+
+}
+
+.dimRiga0{
+  border:1px solid black;
+  background-color: #909090;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  height: 4%;
+}
+.dimRigaT{
+  border:1px solid black;
+  background-color: #909090;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  height: 10%;
+}
+
+.spazOrg{height: 5%;}
+.dimRiga{
+  width: 100%;
+  height: 5%;
+  border: 0px solid black;
+
+}
+.dimRiga2{
+  width: 100%;
+  height: 8%;
+}
+.orgIns{
+  width: 97.5%;
+  height: 73%;
+  padding: 1%;
+}
+.orgIns3{
+  width: 46.5%;
+  height: 50%;
+  padding: 1%;
+}
+.orgIns4{
+  width: 185px;
+  height: 80%;
+}
+/*----------TABELLA TAPPA---------*/
+#celTapNum{padding-left: 2px;}
+.celTap{
+  padding-left: 2px;
+  width: 19%;
+  height: 2%;
+}
+
+/*----------TABELLA NOTA---------*/
+.celNum {width: 97%;}
+.celTitoloNota {width: 80%;}
+
+.boxNota {
+  width: 80%;
+  height: 80px;
+}
+
+/*-----------TABELLA VISIBILITA---------*/
+.visibilita{
+  border:1px solid #909090;
+  width:92%;
+  height: 100px;
+  margin-left:4%;
+  margin-bottom: 3%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 4%;
+  padding-right:3%;
+}
+.orgIns2 {width: 50%;padding: 1%;}
+.spazButPub {text-align: center;}
+
+/*---------BOTTONE---------*/
+.butPubblica{
+ height: 28px;
+ width:80px;
+ outline: none;
+ cursor: pointer;
+ border-radius: 1px;
+ text-align: center;
+ text-decoration: none;
+ font: bold 11px Arial, Helvetica, sans-serif;
+ color: #fff;
+ border: solid 1px #0076a3;
+ background: #0095cd;
+}
+#annulla{
+ height: 28px;
+ width:80px;
+ outline: none;
+ cursor: pointer;
+ border-radius: 1px;
+ text-align: center;
+ text-decoration: none;
+ font: bold 11px Arial, Helvetica, sans-serif;
+ color: black;
+ border: solid 1px #0076a3;
+ background: grey;
+}
+.butPubblica:hover{background:#007fff;}
